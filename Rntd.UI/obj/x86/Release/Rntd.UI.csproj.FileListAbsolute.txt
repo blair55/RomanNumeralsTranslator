@@ -1,0 +1,7 @@
+E:\Projects\RomanNumeralToDecimal\Rntd.UI\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Release\Rntd.UI.exe
+E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Release\Rntd.UI.pdb
+E:\Projects\RomanNumeralToDecimal\Rntd.UI\obj\x86\Release\Rntd.UI.exe
+E:\Projects\RomanNumeralToDecimal\Rntd.UI\obj\x86\Release\Rntd.UI.pdb
+E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Release\Rntd.Core.dll
+E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Release\Rntd.Core.pdb
