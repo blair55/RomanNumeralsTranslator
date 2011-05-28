@@ -1,7 +1,0 @@
-E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Debug\Rntd.UI.exe
-E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Debug\Rntd.UI.pdb
-E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Debug\Rntd.Core.dll
-E:\Projects\RomanNumeralToDecimal\Rntd.UI\bin\Debug\Rntd.Core.pdb
-E:\Projects\RomanNumeralToDecimal\Rntd.UI\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\Projects\RomanNumeralToDecimal\Rntd.UI\obj\x86\Debug\Rntd.UI.exe
-E:\Projects\RomanNumeralToDecimal\Rntd.UI\obj\x86\Debug\Rntd.UI.pdb

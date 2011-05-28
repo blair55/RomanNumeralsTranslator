@@ -1,5 +1,0 @@
-E:\Projects\RomanNumeralToDecimal\Rntd.Core\bin\Debug\Rntd.Core.dll
-E:\Projects\RomanNumeralToDecimal\Rntd.Core\bin\Debug\Rntd.Core.pdb
-E:\Projects\RomanNumeralToDecimal\Rntd.Core\obj\Debug\ResolveAssemblyReference.cache
-E:\Projects\RomanNumeralToDecimal\Rntd.Core\obj\Debug\Rntd.Core.dll
-E:\Projects\RomanNumeralToDecimal\Rntd.Core\obj\Debug\Rntd.Core.pdb
